@@ -1,8 +1,10 @@
 # Defense Shooter Game
 
 ![Defense Shooter Game](https://img.shields.io/badge/Game-Defense_Shooter-brightgreen)
+![Self Development](https://img.shields.io/badge/Project-Self_Development-red)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3dcf7a88-c554-48e0-b040-301f1cdda6f6/deploy-status)](https://app.netlify.com/sites/defense-shooter/deploys)
-[![Playable on Chrome](https://img.shields.io/badge/Playable%20on-Chrome-informational?logo=google-chrome)](https://defense-shooter.netlify.app/)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+[![Playable on Chrome](https://img.shields.io/badge/Playable%20on-Chrome-informational?logo=google-chrome&logoColor=white)](https://defense-shooter.netlify.app/)
 
 This web application is designed for a defense shooter game using HTML5/Canvas. I created and implemented features such as shooting mechanics, enemy spawn dynamics, explosive effects, player score. Immerse yourself in the action by shooting with precision using your mouse.
 
